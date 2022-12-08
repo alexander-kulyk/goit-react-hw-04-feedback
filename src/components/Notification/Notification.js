@@ -10,7 +10,7 @@ export const Notification = ({message}) =>{
     return(
         <Notif>{message}</Notif>
     )
-}
+};
 
 
 Notification.propTypes = {
